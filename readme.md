@@ -3,8 +3,11 @@ Networds are divided into two categories, the New Sementic Word(語義追加タ�
 Check Methods:
 
 1.fork による clone する
+
 自分のrepositoryを作成してください。
+
 branchで、「culab」にチェンジしてください。
+
 チェックした後、ファイルをpullしてください。
 
 2.Excel
